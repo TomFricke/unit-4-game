@@ -1,1 +1,83 @@
-
+body {
+    float: left;
+    background-image: url("https://i.ytimg.com/vi/Psi-QPrJTnk/maxresdefault.jpg");
+    background-repeat: repeat;  
+}
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.container {
+    width: 900px;
+    length: 10px;
+    vertical-align: center;
+    margin: 0;
+}
+#header {
+    padding: 10px;
+    margin-top: 10px;
+    background: yellowgreen;
+    color: gray;
+    opacity: 0.8;
+    vertical-align: center;
+}
+#rules {
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    background: tan;
+    color: lightcoral;
+    font-weight: bold;
+    opacity: 0.8;
+}
+#ranNumber {
+    padding: 5px 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: teal;
+    opacity: 0.8;
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+}
+#tracker {
+    padding: 5px 5px;
+    margin-top: 10px;
+    background: orange;
+    color: black;
+    font-size: 16px;
+    opacity: 0.8;
+    font-family: 'Times New Roman', Times, serif;
+}
+.crystal-image {
+    height: 100px;
+    width: 100px;
+    margin-right: 6px;
+    margin-top: 10px;
+}
+#pictures {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+    line-height: 0px;
+}
+#scoreCounter {
+    background: lightslategray;
+    top: 0px;
+    margin: 0px;
+    color: darkorchid;
+    padding-top: 6px;
+}
+#totalScore {
+    background: lightblue;
+    top: 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: lightpink;
+    padding-top: 6px;
+    padding-bottom: 75px;
+    font-size: 30px;
+    font-weight: bold;
+}
